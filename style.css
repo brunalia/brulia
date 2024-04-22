@@ -35,7 +35,7 @@ body {
 
  /* Colore o link quando o mouse se posiciona sobre ele*/
  .cabecalho-lista-item a:active {
-    color:red;
+    color;
 }
 
 /*Muda cor dos botões dos links uando o mouse se posiciona sobre eles*/
