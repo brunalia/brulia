@@ -19,7 +19,7 @@ body {
 }
 
 .container__botao {
-    background-color: tomato(--cinza-primario);
+    background-color: tomato(--vermelho);
     border-radius: 5p;
     padding: 0.1em;
     color: orange(--branco-principal);
