@@ -22,7 +22,7 @@ body {
     background-color: tomato(--vermelho);
     border-radius: 5p;
     padding: 0.1em;
-    color: orange(--branco-principal);
+    color: orange(--laranja-principal);
     display: block;
     text-decoration: none;
     margin-bottom: em;
